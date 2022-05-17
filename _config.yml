@@ -1,5 +1,5 @@
-title: "My Blogs Name"
-author: "Default Author Name"
+title: "dig333-devlog"
+author: "Owen Mundy"
 description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
@@ -13,7 +13,7 @@ linkedin_username: "linkedinuser"
 #instagram_username: username
 #pinterest_username: username
 #youtube_username: username
-#googleplus_username: +username
+
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
